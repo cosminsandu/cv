@@ -36,8 +36,8 @@ var cvConfig = {
         {type: "normal", name: "Symfony"},
         {type: "normal", name: "Git"},
         {type: "normal", name: "Docker"},
-        {type: "normal", name: "MySQL"},
         {type: "normal", name: "Jira"},
+        {type: "normal", name: "MySQL"},
         {type: "normal", name: "RabbitMQ"},
         {type: "normal", name: "Redis"},
         // {type: "normal", name: "Classic AUTOSAR"},
@@ -86,7 +86,7 @@ var cvConfig = {
                     }
                 ]
             ],
-            skills: ["PHP", "Symfony", "DDD", "Swagger", "RabbitMQ", "Git", "Docker", "PostgreSQL", "Jira", "PHPUnit", "Codeception"],
+            skills: ["PHP", "Symfony", "DDD", "Swagger", "RabbitMQ", "Git", "Docker", "PostgreSQL",  "MySQL", "Jira", "PHPUnit", "Codeception"],
             skillsHidden: []
         },
         {
@@ -314,7 +314,7 @@ var cvConfig = {
                     }
                 ],
             ],
-            skills: ["PHP", "Symfony", "SOLR", "ELK stack", "Git", "OpenStack", "MySQL", "Jira", "PHPUnit", "RabbitMQ", "Redis", "Memcache", "jQuery", "Jenkins"],
+            skills: ["PHP", "Symfony", "CodeIgniter", "SOAP", "REST API", "SVN", "GIT", "Jira", "PHPUnit",  "Bootstrap", "jQuery", "Foundation", "MySQL"],
             skillsHidden: []
         },
         {
