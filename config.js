@@ -351,7 +351,7 @@ var cvConfig = {
                 ],
             ],
             skills: [ "Jira", "TestComplete", "JScript", "SVN", "SEO", "Manual Testing", "Automatic Testing"],
-            skillsHidden: []
+            skillsHidden: ["PHP"]
         },
     ]
 };
